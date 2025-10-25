@@ -53,4 +53,5 @@ Integrated-Project/
 - Power BI `.pbix` files are binary; consider uploading them to a GitHub release or use Git LFS.
 
 ## Contact
-Author: Your Name
+Author: Aditi Dawra
+
