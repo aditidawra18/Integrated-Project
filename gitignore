@@ -1,0 +1,11 @@
+__pycache__/
+.ipynb_checkpoints/
+venv/
+*.pyc
+*.sqlite
+.DS_Store
+env/
+*.egg-info/
+*.egg
+*.log
+data/*.csv
